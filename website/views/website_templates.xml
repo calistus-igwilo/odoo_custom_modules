@@ -1718,10 +1718,11 @@
                             <i class="fa fa-linkedin rounded-circle rounded shadow-sm o_editable_media"/>
                         </a>
                     </div>
-                    <p class="text-center mb-1">250 Executive Park Blvd, Suite 3400 • San Francisco CA 94134 • United States</p>
+                    <p class="text-center mb-1">MERIT HOUSE: 22 Aguiyi-Ironsi Street • Maitama • Abuja • NIGERIA</p>
                     <ul class="list-inline text-center">
-                        <li class="list-inline-item mx-3"><i class="fa fa-1x fa-fw fa-phone me-2"/><span class="o_force_ltr"><a href="tel:+1(650)555-0111">+1 (650) 555-0111</a></span></li>
-                        <li class="list-inline-item mx-3"><i class="fa fa-1x fa-fw fa-envelope me-2"/><span><a href="mailto:info@yourcompany.example.com">info@yourcompany.example.com</a></span></li>
+                        <li class="list-inline-item mx-3"><i class="fa fa-1x fa-fw fa-phone me-2"/><span class="o_force_ltr"><a href="tel:+2347098203928">+234 (0) 7098203928  (Abuja)</a></span></li>
+                        <li class="list-inline-item mx-3"><i class="fa fa-1x fa-fw fa-phone me-2"/><span class="o_force_ltr"><a href="tel:+2347098203928">+234 (0) 8023012402  (Lagos)</a></span></li>
+                        <li class="list-inline-item mx-3"><i class="fa fa-1x fa-fw fa-envelope me-2"/><span><a href="mailto:info@indemnitypartners.com">info@indemnitypassord.com</a></span></li>
                     </ul>
                 </div>
             </section>
@@ -1730,7 +1731,7 @@
                     <div class="row">
                         <div class="col-lg-2 offset-lg-5">
                             <a href="/" class="o_footer_logo logo">
-                                <img src="/website/static/src/img/website_logo.svg" class="img-fluid mx-auto" aria-label="Logo of MyCompany" title="MyCompany" role="img"/>
+                                <img src="/website/static/src/img/indemnity_logo.png" class="img-fluid mx-auto" aria-label="Logo of Indemnity Partners" title="Indemnity Partners" role="img"/>
                             </a>
                         </div>
                     </div>
@@ -1780,13 +1781,13 @@
                         <div class="col-lg-3 pb16">
                             <h5>Get in touch</h5>
                             <ul class="list-unstyled">
-                                <li class="py-1"><i class="fa fa-1x fa-fw fa-envelope me-2"/><a href="mailto:info@yourcompany.com">info@yourcompany.com</a></li>
-                                <li class="py-1"><i class="fa fa-1x fa-fw fa-phone me-2"/><span class="o_force_ltr"><a href="tel:+1(650)555-0111">+1 (650) 555-0111</a></span></li>
+                                <li class="py-1"><i class="fa fa-1x fa-fw fa-envelope me-2"/><a href="mailto:info@indemnitypartners.com">info@indemnitypartners.com</a></li>
+                                <li class="py-1"><i class="fa fa-1x fa-fw fa-phone me-2"/><span class="o_force_ltr"><a href="tel:+2347098203928">+234 (0) 7098203928</a></span></li>
                             </ul>
                         </div>
                         <div class="col-lg-3 pb16">
-                            <h5>MyCompany</h5>
-                            <p class="text-muted">250 Executive Park Blvd, Suite 3400 <br/> San Francisco CA 94134 <br/>United States</p>
+                            <h5>Indemnity Partners</h5>
+                            <p class="text-muted">MERIT HOUSE: 22 Aguiyi-Ironsi Street, Maitama <br/> Abuja <br/>Nigeria</p>
                         </div>
                     </div>
                 </div>
@@ -1803,7 +1804,7 @@
                     <div class="row align-items-center">
                         <div class="col-lg-2 pt16 pb16">
                             <a href="/" class="o_footer_logo logo">
-                                <img src="/website/static/src/img/website_logo.svg" class="img-fluid mx-auto" aria-label="Logo of MyCompany" title="MyCompany" role="img"/>
+                                <img src="/website/static/src/img/website_logo.svg" class="img-fluid mx-auto" aria-label="Logo of Indemnity Partners" title="Indemnity Partners" role="img"/>
                             </a>
                         </div>
                         <div class="col-lg-5 d-flex align-items-center justify-content-center justify-content-lg-start pt16 pb16">
@@ -1854,11 +1855,11 @@
                         </div>
                         <div class="col-lg-3 pt16 pb16">
                             <p class="mb-2">Call us</p>
-                            <h5><span class="o_force_ltr"><a href="tel:+1(650)555-0111">+1 (650) 555-0111</a></span></h5>
+                            <h5><span class="o_force_ltr"><a href="tel:+2347098203928">+234 (0) 7098203928</a></span></h5>
                         </div>
                         <div class="col-lg-3 pt16 pb16">
                             <p class="mb-2">Send us a message</p>
-                            <h5><a href="mailto:hello@mycompany.com">hello@mycompany.com</a></h5>
+                            <h5><a href="mailto:info@indemnitypartners.com">info@indemnitypartners.com</a></h5>
                         </div>
                         <div class="col-lg-3 pt16 pb16">
                             <div class="s_social_media text-end no_icon_color o_not_editable" data-snippet="s_social_media" data-name="Social Media" contenteditable="false">
@@ -1889,7 +1890,7 @@
                     <div class="row align-items-center">
                         <div class="col-lg-2 pb16">
                             <a href="/" class="o_footer_logo logo">
-                                <img src="/website/static/src/img/website_logo.svg" class="img-fluid" aria-label="Logo of MyCompany" title="MyCompany" role="img"/>
+                                <img src="/website/static/src/img/indemnity_logo.png" class="img-fluid" aria-label="Logo of Indemnity Partners" title="Indemnity Partners" role="img"/>
                             </a>
                         </div>
                         <div class="col-lg-10 pb16 text-end">
@@ -1943,10 +1944,10 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-9">
-                            <p><i class="fa fa-1x fa-fw fa-map-marker me-2"/>250 Executive Park Blvd, Suite 3400 • San Francisco CA 94134 • United States</p>
+                            <p><i class="fa fa-1x fa-fw fa-map-marker me-2"/>MERIT HOUSE: 22 Aguiyi-Ironsi Street  • Maitama, Abuja • Nigeria</p>
                         </div>
                         <div class="col-lg-3">
-                            <p><i class="fa fa-1x fa-fw fa-envelope me-2"/><a href="mailto:info@yourcompany.example.com">info@yourcompany.example.com</a></p>
+                            <p><i class="fa fa-1x fa-fw fa-envelope me-2"/><a href="mailto:info@indemnitypartners.com">info@indemnitypartners.com</a></p>
                         </div>
                     </div>
                 </div>
@@ -1986,8 +1987,8 @@
                         </div>
                         <div class="col-lg-6 pb24">
                             <ul class="list-unstyled mb-0">
-                                <li><i class="fa fa-phone fa-fw me-2"/><span class="o_force_ltr"><a href="tel:+1(650)555-0111">+1 (650) 555-0111</a></span></li>
-                                <li><i class="fa fa-envelope fa-fw me-2"/><span><a href="mailto:info@yourcompany.example.com">info@yourcompany.example.com</a></span></li>
+                                <li><i class="fa fa-phone fa-fw me-2"/><span class="o_force_ltr"><a href="tel:+2347098203928">+234 (0) 7098203928</a></span></li>
+                                <li><i class="fa fa-envelope fa-fw me-2"/><span><a href="mailto:info@indemnitypartners.com">info@indemnitypartners.com</a></span></li>
                             </ul>
                         </div>
                         <div class="col-lg-3 pb24">
@@ -2027,7 +2028,7 @@
 
 <template id="footer_copyright_company_name" inherit_id="website.layout">
     <xpath expr="//footer//span[hasclass('o_footer_copyright_name')]" position="replace">
-        <span class="o_footer_copyright_name me-2">Copyright &amp;copy; Company name</span>
+        <span class="o_footer_copyright_name me-2">Copyright &amp;copy; Indemnity Partners</span>
     </xpath>
 </template>
 
